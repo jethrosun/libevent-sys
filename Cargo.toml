@@ -20,5 +20,5 @@ gitlab = { repository = "tornado-torrent/libevent-sys", branch = "master" }
 static = []
 
 [build-dependencies]
-bindgen = "^0.45"
+bindgen = "^0.50"
 pkg-config = "^0.3"
